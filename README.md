@@ -4,7 +4,7 @@ This repository is a humble collection of raccoon profile pictures.
 Nothing more, nothing less — just raccoons being their awesome, mischievous selves.
 
 📁 Folder Contents
-Inside the raccoons/ folder, you'll find various profile images of raccoons. Great for avatars, memes, or just appreciating these trash pandas in style.
+Inside the mýval/ folder, you'll find various profile images of raccoons. Great for avatars, memes, or just appreciating these trash pandas in style.
 
 ✨ Why?
 Because raccoons deserve representation. Also, why not?
